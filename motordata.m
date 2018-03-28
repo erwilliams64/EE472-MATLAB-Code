@@ -1,0 +1,1 @@
+close allclearload motordata_withobserver.mat
